@@ -1,9 +1,9 @@
 const cacheName = "Serhat-Shooter-0.1.0";
 const contentToCache = [
-    "Build/WebGL.loader.js",
-    "Build/WebGL.framework.js.br",
-    "Build/WebGL.data.br",
-    "Build/WebGL.wasm.br",
+    "Build/buildd.loader.js",
+    "Build/buildd.framework.js.unityweb",
+    "Build/buildd.data.unityweb",
+    "Build/buildd.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
