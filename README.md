@@ -1,7 +1,5 @@
 # 🚀 Shooter Case - Vuvy
 
-<img align="right" width="180" src="Docs/Images/thumbnail.png" />
-
 A *data-driven*, **GC-free** top-down shooter prototype built.
 
 Focus areas:
